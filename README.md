@@ -1,1 +1,1 @@
-yukarinn.github.io
+# yukarin.moe
