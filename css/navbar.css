@@ -3,6 +3,10 @@
   padding: 2em;
 }
 
+.homeButton {
+  padding: 0px;
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
@@ -30,6 +34,7 @@
   color: #F8F0F0;
   background-color: rgba(102, 51, 51, 0.5);
   padding: 10px;
+  text-decoration: none;
 }
 
 .dropdownContent a:hover {
