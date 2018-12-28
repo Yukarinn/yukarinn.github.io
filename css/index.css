@@ -1,0 +1,17 @@
+.title {
+  font-size: 3em;
+  text-align: center;
+}
+
+.textCentered {
+  text-align: center;
+}
+
+.imageProfile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border-style: dotted;
+  border-color: #663333;
+}

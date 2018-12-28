@@ -1,0 +1,52 @@
+/* dropdown Button */
+.topnav {
+  padding: 2em;
+}
+
+.homeButton {
+  padding: 0px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  float: right;
+}
+
+.dropdown .dropButton {
+  background-color: transparent;
+  border: transparent;
+  font-size: 1em;
+  width: 150px;
+  text-align: center;
+  padding: 10px;
+}
+
+.dropdownContent {
+  display: none;
+  position: absolute;
+  width: 150px;
+  text-align: center;
+}
+
+.dropdownContent a {
+  display: block;
+  color: #F8F0F0;
+  background-color: rgba(102, 51, 51, 0.5);
+  padding: 10px;
+  text-decoration: none;
+}
+
+.dropdownContent a:hover {
+  color: #F8F0F0;
+  background-color: rgba(102, 51, 51, 0.7);
+}
+
+.dropdown:hover .dropButton:hover {
+  color: #F8F0F0;
+  background-color: rgba(102, 51, 51, 0.5);
+}
+
+.dropdown:hover .dropdownContent {
+  display: block;
+}
