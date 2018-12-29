@@ -1,0 +1,39 @@
+.subsec {
+  width: 1200px;
+}
+
+.subsecTitle {
+  width: 400px;
+  float: left;
+  margin: 2em;
+}
+
+.subsecText {
+  width: 13em;
+  vertical-align: middle;
+  float: left;
+}
+
+.subsecText p {
+  margin: 0;
+  text-align: right;
+}
+
+.yukarin {
+  font-size: 3em;
+}
+
+.imageProfile {
+  width: 5em;
+  height: auto;
+  border-radius: 50%;
+  border-style: dotted;
+  border-color: #663333;
+  float: left;
+  margin: 0 2em
+}
+
+.subsecDesc {
+  width:1000px;
+  margin: 2em;
+}
