@@ -1,10 +1,7 @@
 /* dropdown Button */
 .topnav {
   padding: 2em;
-}
-
-.homeButton {
-  padding: 0px;
+  position: sticky;
 }
 
 .dropdown {
