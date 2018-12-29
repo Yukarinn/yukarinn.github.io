@@ -1,4 +1,11 @@
-<DOCTYPE! html>
+#!usr/bin/python
+
+import os
+
+
+IMAGE_FOLDER = "img"
+
+ILLUST_BEGIN = """<DOCTYPE! html>
 
 <html>
 
@@ -23,16 +30,22 @@
   </div>
 
 <div class="gridContainer">
-<div class="gridRow">
-<img src="img/02.jpg">
-<img src="img/cuterusa.jpg">
-<img src="img/mizugi.jpg">
-<img src="img/pfp.jpg">
-<img src="img/violet.jpg">
-<img src="img/yukari.jpg">
-</div>
-</div>
+"""
+
+ILLUST_END = """</div>
 
 </body>
 
 </html>
+"""
+
+
+files = os.listdir(IMAGE_FOLDER)
+file = open("illustration.html", "w")
+file.write(ILLUST_BEGIN)
+file.write('<div class="gridRow">\n')
+for item in files:
+    file.write('<img src="%s">\n' % os.path.join(IMAGE_FOLDER, item))
+file.write('</div>\n')
+file.write(ILLUST_END)
+file.close()

@@ -1,30 +1,14 @@
-.gridRow {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0px 4px;
+.gridContainer {
+  display: grid;
+  width: 80%;
+  max-width: 1030px;
+  margin-left: auto;
+  margin-right: auto;
+  grid-gap: 10px;
 }
 
-.gridColumn {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0px 4px;
-}
-
-.gridColumn img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
-
-@media screen and (max-width: 800px) {
-  .gridColumn {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .gridColumn {
-    flex: 100%;
-    max-width: 100%;
-  }
+.gridContainer img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
 }
