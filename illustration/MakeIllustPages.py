@@ -43,9 +43,9 @@ ILLUST_END = """</div>
 files = os.listdir(IMAGE_FOLDER)
 file = open("index.html", "w")
 file.write(ILLUST_BEGIN)
-file.write('<div class="gridRow">\n')
+
 for item in files:
     file.write('<img src="%s">\n' % os.path.join(IMAGE_FOLDER, item))
-file.write('</div>\n')
+
 file.write(ILLUST_END)
 file.close()
