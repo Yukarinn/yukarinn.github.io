@@ -1,10 +1,7 @@
 .illustGrid {
   display: grid;
-  width: 80%;
-  max-width: 1030px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 3em;
+  width: 1030px;
+  margin: 3em auto;
   grid-gap: 10px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
