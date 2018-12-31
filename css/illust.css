@@ -1,5 +1,6 @@
 .illustGrid {
   display: grid;
+  max-width: 80%;
   width: 1030px;
   margin: 3em auto;
   grid-gap: 10px;

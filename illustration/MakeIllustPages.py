@@ -30,29 +30,30 @@ ILLUST_BEGIN = """<DOCTYPE! html>
     </div>
   </div>
 
-  <div class"subsec">
-    <div class="subsecTitle">
-      <img src="../img/profile-180.png" alt="Avatar" class="imageProfile">
-      <div class="subsecText">
-        <p class="yukarin">Yukarin</p>
-        <p>------------------- *</p>
-        <p>illustration</p>
+  <div class="page">
+
+    <div class"subsec">
+      <div class="subsecTitle">
+        <img src="../img/profile-180.png" alt="Avatar" class="imageProfile">
+        <div class="subsecText">
+          <p class="yukarin">Yukarin</p>
+          <p>------------------- *</p>
+          <p>illustration</p>
+        </div>
       </div>
     </div>
-    <div class="subsecDesc">
-      <p>To go partway is easy, but mastering anything requires hard fucking work. Design as if your fucking life depended on it. Dedicate yourself to lifelong fucking learning. Someday is not a fucking day of the week. Widows and orphans are terrible fucking tragedies, both in real life and definitely in typography.</p>
-    </div>
-  </div>
 
-
-  <div class="illustGrid">
+    <div class="illustGrid">
 """
 
-ILLUST_END = """</div>
+ILLUST_END = """    </div>
+
+  </div>
 
 </body>
 
 </html>
+
 """
 
 
