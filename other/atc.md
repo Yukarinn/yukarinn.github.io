@@ -10,11 +10,12 @@
 - [Floyd Warshall](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)
 
 ### Oct 18
-[abc142d](https://atcoder.jp/contests/abc142/tasks/abc142_d)
+[abc142d-Disjoint Set of Common Divisors](https://atcoder.jp/contests/abc142/tasks/abc142_d)
 - number of prime divisor of gcd(A, B) + 1
 - gcd: euclidean algorithm
 - O(sqrt(gcd(A, B))) time to find distinct prime divisors
-[abc142e](https://atcoder.jp/contests/abc142/tasks/abc142_e)
+
+[abc142e-Get Everything](https://atcoder.jp/contests/abc142/tasks/abc142_e)
 - bit mask
 - greedy
 - reasonable big number for impossible combinations (i.e. big enough but doesn't overflow)
