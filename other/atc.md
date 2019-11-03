@@ -2,7 +2,7 @@
 
 ### Nov 2
 [abc143e-Travel by Car](https://atcoder.jp/contests/abc143/tasks/abc143_e)
-- [upsolve](#Oct-20)
+- [upsolve](#oct-20)
 - int overflow on large inputs, should use long long
 - int overflow on MAX_INT addition
 - scanf is fast
