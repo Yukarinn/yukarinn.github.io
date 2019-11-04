@@ -1,5 +1,14 @@
 # [difficulty](https://kenkoooo.com/atcoder/#/table/)
 
+### Nov 3
+[abc144d-Water Bottle](https://atcoder.jp/contests/abc144/tasks/abc144_d)
+- find the angle of the triangle, 2 cases
+   - water < a half of the glass, calculate water
+   - water >= a half of the , calculate air
+- arctan - `atan` from `math.h`, returns radiant
+- `degree = radiant * 180 / pi`
+- scanf double `%lf`, printf `%f`
+
 ### Nov 2
 [abc143e-Travel by Car](https://atcoder.jp/contests/abc143/tasks/abc143_e)
 - [upsolve](#oct-20)
