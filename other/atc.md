@@ -1,5 +1,9 @@
 # [difficulty](https://kenkoooo.com/atcoder/#/table/)
 
+### Nov 10
+[abc142f-Pure](https://atcoder.jp/contests/abc142/tasks/abc142_f)
+- find a cycle using bfs (has to be smallest cycle including vertex v)
+
 ### Nov 3
 [abc144d-Water Bottle](https://atcoder.jp/contests/abc144/tasks/abc144_d)
 - find the angle of the triangle, 2 cases
@@ -8,6 +12,9 @@
 - arctan - `atan` from `math.h`, returns radiant
 - `degree = radiant * 180 / pi`
 - scanf double `%lf`, printf `%f`
+> Note that this is one place that printf format strings differ substantially from scanf (and fscanf, etc.) format strings. For output, you're passing a value, which will be promoted from float to double when passed as a variadic parameter. For input you're passing a pointer, which is not promoted, so you have to tell scanf whether you want to read a float or a double, so for scanf, %f means you want to read a float and %lf means you want to read a double
+
+- in `scanf("%d %d")`, the space is a regex - matches any whitespace characters
 
 ### Nov 2
 [abc143e-Travel by Car](https://atcoder.jp/contests/abc143/tasks/abc143_e)

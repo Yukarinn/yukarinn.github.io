@@ -1,0 +1,64 @@
+## Jan 22
+
+### Application Protocol
+- message format & type
+  - HTTP request
+  - HTTP response
+- event handling
+- PORT #
+
+### HTTP
+Hyper Text Transfer Protocol
+-> Port # = 80
+Assume Client/Server model
+Server name ---DNS---> IP address
+HTTP server listens on port 80
+Cliemt initiate connection
+- application create a socket to transport layer and uses TCP for reliability
+- delivers in-order packets
+Server's port number has to be 80 becuase it should be well known
+- implies client can use any port number
+
+
+### HTTP Request
+- `GET` (URL that is requesting) (URL - uniform resource locater)
+  - header line - xyz.come/index.html (object URL)
+  - Host: www.xyz.com
+  - (can have many header lines)
+  ---
+  Entity body: Data
+
+### HTTP response
+- HTTP/ 200 ( tatus line)
+  Date of retrival
+  Content length: number of bytes in the entity
+  Content type: HTML/Text
+  ---
+  entity DATA
+
+- 1xx 2xx - successful
+- 3xx redirection
+- 4xx client error - error in the request
+- 5xx server error
+
+### client
+- initiates TCP connection on port number 80
+  TCP: 3-way handshake
+
+### RTT - round trip time
+estimation of propogation
+- queuing
+- processing delay
+
+### TCP connection - handshake
+(connection initiated by client)
+1. h1
+2. h2
+3. h3 + HTTP request
+4. HTTP response
+(connection closed by server)
+
+2RTT + transmission delay
+
+Non-spersistant TCP connection
+need to restart connection for each object
