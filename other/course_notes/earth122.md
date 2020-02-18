@@ -8,7 +8,7 @@
 
 ## Genetic variation
 
-**Adaptive Trait (Adaptation)**: a trait that promotes reproductive success•A trait that reduces success is said to be maladaptive
+**Adaptive Trait (Adaptation)**: a trait that promotes reproductive success**A trait that reduces success is said to be maladaptive
 
 **Mutations**: accidental changes in DNA that may be passed on to the next generation
 
@@ -289,3 +289,117 @@ major regional complex of similar communities, recognized by: plant type, vegeta
 
 **Climatographs**: shows an area’s mean monthly temperature and precipitation
 - Similar biomes occupy similar latitudes
+
+# Chapter 7 Soils - Jan 30
+
+Soil consists of mineral matter, organic matter, air, and water
+- Dead and living microorganisms, and decaying material
+- Bacteria, algae, earthworms, insects, mammals, amphibians, and reptiles
+
+## Soil is a complex, dynamic mixture
+**Parent material**: the base geologic material of soil–Determines the starting composition of the soil  
+**Organic matter** includes living and dead microorganisms as well as decaying plant and animal material  
+**Water** is not pure, contains dissolved minerals and organics and is important for support of plant growth  
+**Air** soil air is not the same as air we breath
+
+## Soil formation
+**bedrock**:  the continuous mass of solid rock comprising the Earth’s crust
+
+**Weathering** = the physical, chemical, or biological processes that break down rocks to form soil
+- **Physical (mechanical)** = wind and rain, no chemical changes in the parent material
+- **Chemical** = substances chemically interact with parent material
+- **Biological** = organisms break down parent material
+ - deposition, decomposition, and accumulation of organic matter
+ - **Humus** = a dark, spongy, crumbly mass of material formed by partial decomposition
+- **Erosion** = the dislodging and movement of soil by wind or water
+  - Occurs when vegetation is absent
+  - When deposited elsewhere referred to as sediment
+
+## Soil Profile
+- **Horizon** = each layer of soil
+- **Soil profile** = the cross-section of soil as a whole
+- **Topsoil** = inorganic and organic material most nutritive for plants
+- **Leaching** = dissolved particles move down through horizons
+- **Litter** = surface deposits of leaves, branches, mosses, animal waste
+
+
+## Horizons
+- **O Horizon** = organic matter/peat deposits
+- **A Horizon** = topsoil
+- **B Horizon**  = subsoil, hardpan
+- **C Horizon** = broken parent material
+- **R Horizon** = unaltered parent material
+- **W Horizon** = distinct layer of water in some soils
+- **Permafrost** = some arctic soils contain a perennially frozen layer
+
+## Soil categories
+Soils classified into various categories using properties such as: Colour, Texture, Structure, pH
+
+- **Soil colour** = indicates its composition and fertility
+  - Black or dark brown = rich in organic matter
+  - Pale gray or white = indicates leaching
+- **Soil texture** = the size of particle
+  - Clay (smallest), silt, sand (largest)
+  - **porosity** = measure of the relative volume of spaces within the material;
+  - **permeability** = measure of interconnectedness of the spaces and the ease with which fluids can move through the material
+- **Loam** = soil with an even mixture of the three
+  - Clay (smallest), silt, sand (largest)
+- **Soil structure** = a measure of soil’s “clumpiness”   
+  - Large clumps can discourage plant roots–Repeated tilling compacts soil
+  - **Plowpan** = a hard layer resulting from repeated plowing that resists water infiltration and root penetration
+- **Soil pH** = influences a soil’s ability to support plant growth
+  - Soils that are too acidic (low pH) or basic (high pH) can kill plants
+
+## Ion exchange
+**Cation exchange** = process that allows plants to gain nutrients
+- Negatively charged soils hold cations of calcium, magnesium, and potassium
+
+**Cation exchange capacity** = a soil’s ability to hold cations, preventing them from leaching, thereby increasing their availability to plant
+
+## Nitrogen Cycle
+- **Nitrogen fixation** = inert nitrogen gas (N2) from the atmosphere is combined with hydrogen to form ions of ammonium (NH4+)
+- **Nitrification** = specialized bacteria converts ammonium ions into nitrite ions (NO2-), then by  another group of specialized bacteria into nitrate ions (NO3-)
+- **Denitrification** =  bacteria convert nitrates in soil or water into gaseous forms of nitrogen
+  - Carried out by several varieties of bacteria
+
+## Soil Erosion
+Soil erosion is part of the constant recycling of Earth materials and is part of the rock cycle.  Once soil forms, Erosional Forces: Water, Wind, Ice, and Gravity move soil from one place to another
+
+**Deposition** = the arrival of eroded material at its new location
+
+
+## Desertification
+- A loss of more than 10% productivity from erosion, soil compaction, forest removal, overgrazing, salinization, climate change, depletion of water sources
+- A type of land degradation
+- Affects 1/3 of the planet’s land area
+- Most prone areas are arid and semiarid lan
+
+## Erosion control practices
+- **Crop rotation**:
+  alternating the crops grown field from one season or year to the ne
+- **Contour farming**: plowing furrows sideways across a hillside, perpendicular to its slope, to prevent rills and gullies
+- **Intercropping and agroforestry**: planting different types of crops in alternating bands or other spatially mixed arrangements to increase ground cover
+- **Terracing**: level platforms are cut into steep hillsides, forming a “staircase” to contain water
+- **Shelterbelts**: rows of tall, perennial plants are planted along the edges of fields to slow the wind
+  - **Alley cropping** = shelterbelts + intercroppin
+- **Reduced tillage**: furrows are cut in the soil, a seed is dropped in and the furrow is closed
+
+
+## Irrigation can cause long-term soil problems
+- **Irrigation** = Artificially providing water to support agriculture
+- **Waterlogging** = over-irrigated soils which suffocates roots
+- **Salinization** = the buildup of salts in surface soil layer
+
+## Other chemicals also contribute to soil contamination
+- **Fertilizer** = substances that contain essential nutrients but over-application can damage soils
+- **Inorganic fertilizers** = mined or synthetically manufactured mineral supplements
+- **Organic fertilizers** = the remains or wastes of organisms
+  - manure, crop residues, fresh vegetation
+  - **Compost** = produced when decomposers break down organic matter
+  - Not perfect
+
+## Biochar
+biomass is reduced to a black, carbon-rich, charcoal-like residue
+- Can hold onto plant nutrients thus enhancing fertility of soil
+- Also effective at absorbing and holding heavy metals
+- May act as a long-term reservoir for carbon
